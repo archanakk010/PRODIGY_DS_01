@@ -35,7 +35,7 @@ Simple visual tools like histograms and bar charts can provide deep insights int
 
 ##  Files Included
 
-- `Untitled.ipynb` – Jupyter notebook with the code and visualizations.
+- `Employee.ipynb` – Jupyter notebook with the code and visualizations.
 - `Employee.csv` – The dataset used for the analysis.
 - `README.md` – Project overview and documentation.
 
